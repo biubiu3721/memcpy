@@ -9,6 +9,7 @@
    4. **Vector Copy**
    5. **prefetch**
    6. ddr direct write. use movntdq to write ddr to avoid cache pollution.
+   7. Deal with overlap.
 ## Reference:
    * https://www.zhihu.com/question/35172305/answer/77398099
    
