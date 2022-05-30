@@ -5,6 +5,8 @@
 #define LOOP 100
 int main()
 {
+
+    printf("main \n");	
     int a[SIZE];
     int b[SIZE];
     for(int i = 0; i < LOOP; ++i)
